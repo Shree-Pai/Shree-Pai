@@ -8,7 +8,7 @@
 
 Passionate about **MERN Stack**, **DBMS**, and **Machine Learning**.
 
-- 🛠️ Currently working on **Student Attendance Tracker, Legal Case Management System, Trigonometric Solver**, and **News Aggregator**.
+- 🛠️ Currently working on **Projects on MERN Stack**.
 - 📧 Reach me at: [shreelakshmipai04@gmail.com](mailto:shreelakshmipai04@gmail.com)
 
 ---
