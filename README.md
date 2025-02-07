@@ -46,4 +46,6 @@ Passionate about **MERN Stack**, **DBMS**, and **Machine Learning**.
 [![Email](https://img.shields.io/badge/Email-6c63ff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreelakshmipai04@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-6c63ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shree-Pai)
 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Shree-Pai&label=Profile%20Views&color=6c63ff&style=for-the-badge)
 ---
